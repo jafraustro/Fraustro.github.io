@@ -1,2 +1,2 @@
-# fraustro.github.io
+# Fraustro.github.io
 Personal Page
